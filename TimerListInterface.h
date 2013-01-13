@@ -3,7 +3,7 @@
 * Purpose : Contains function declarations.
 * Creation Date : 05-04-2012
 * Last Modified : Thur 05 Apr 2012 09:43:18 PM EST
-* Created By :  Calvin Nichols 0588016
+* Created By :  Calvin Nichols  
 ********************************************/
 
 struct timerNode {

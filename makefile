@@ -1,4 +1,4 @@
-#Created by: Calvin Nichols 0588016
+#Created by: Calvin Nichols  
 
 CC = gcc
 EXEC1 = dealer
